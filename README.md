@@ -1,4 +1,4 @@
-# Fairness without Sensitive Attributes via Noise and Uncertain Predictions
+# Fairness without Sensitive Attributes via Knowledge Sharing
 
 ## Dependencies
 
